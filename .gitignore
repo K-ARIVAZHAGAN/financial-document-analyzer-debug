@@ -1,0 +1,48 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Output files
+outputs/*.pdf
+outputs/*.json
+outputs/*.txt
+
+# Keep outputs directory but not files
+!outputs/.gitkeep

@@ -1,8 +1,8 @@
 # Virtual Environment
-venv/
-.venv/
-env/
-.env/
+# venv/
+# .venv/
+# env/
+# .env/
 
 # Environment Variables
 .env

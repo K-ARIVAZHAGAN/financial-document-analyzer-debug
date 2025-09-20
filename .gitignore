@@ -46,3 +46,10 @@ outputs/*.txt
 
 # Keep outputs directory but not files
 !outputs/.gitkeep
+
+# Code quality reports (temporary)
+.pylint.d/
+.mypy_cache/
+.bandit
+htmlcov/
+.coverage
